@@ -77,7 +77,7 @@
 
 @article{Khodabakhshi_Willcox_Gunzburger_2021AML,
   author = {Khodabakhshi, Parisa and Willcox, Karen E. and Gunzburger, Max},
-  title = {A Multifidelity method for a nonlocal diffusion model},
+  title = {A multifidelity method for a nonlocal diffusion model},
   journal = {Applied Mathematics Letters},
   year = {2021},
   volume = {121},
@@ -88,35 +88,42 @@
 }
 
 @article{Khodabakhshi_Reddy_Srinivasa_2019Acta,
-  author = {Khodabakhshi, Parisa and Reddy, J.N. and Srinivasa, A.},
-  title = {A Nonlocal Fracture Criterion and its Effect on Mesh Dependency of GraFEA},
+  author = {Khodabakhshi, Parisa and Reddy, J.N. and Srinivasa, Arun},
+  title = {A nonlocal fracture criterion and its effect on mesh dependency of GraFEA},
   journal = {Acta Mechanica},
   year = {2019},
   volume = {230},
   number = {10},
   pages = {3593--3612},
-  doi = {10.1007/s00707-019-02468-z}
+  doi = {10.1007/s00707-019-02479-8},
+  bibtex_show = {true},
+  abstract = {Recently, Khodabakhshi et al. (Meccanica 51(12):3129–3147, 2016. https://doi.org/10.1007/s11012-016-0560-6) presented a new method (by the name GraFEA) capable of studying fracture based on edge breakage within a classical FEA scheme which combines the best features of FEA and bond-breakage methods in a single framework. In this study, an attempt is made to investigate the mesh dependency of GraFEA by a set of numerical examples, and it is shown that using a local fracture criterion for edge failure will yield mesh-dependent results, as is already well known. A physically motivated nonlocal fracture criterion is implemented along with the edge breakage model, and its efficacy in eliminating the mesh sensitivity is investigated. The nonlocal criterion introduces a length scale into the problem. It is shown that by increasing the magnitude of the length scale parameter from zero, the damage pattern moves from localized fracture to diffuse damage pattern, yet with complete material separation (fracture) across a certain plane. It is shown by numerical results that, as expected, the introduction of the nonlocal fracture criterion eliminates the issue of mesh sensitivity, and thus predictions of the approximate crack paths and damage zone can be done within the classical FEA framework without the need for special formulations.}
 }
 
 @article{Khodabakhshi_Reddy_2017ZAMM,
   author = {Khodabakhshi, Parisa and Reddy, J.N.},
-  title = {A Unified Beam Theory with Strain Gradient Effect and the von K\'arm\'an Nonlinearity},
+  title = {A unified beam theory with strain gradient effect and the von K\'arm\'an nonlinearity},
   journal = {ZAMM -- Journal of Applied Mathematics and Mechanics},
   year = {2017},
   volume = {97},
+  number = {1},
   pages = {70--91},
-  doi = {10.1002/zamm.201600112}
+  doi = {10.1002/zamm.201600021},
+  bibtex_show = {true},
+  abstract = {In this paper, the governing equations and finite element formulations for a microstructure-dependent unified beam theory with the von Kármán nonlinearity are developed. The unified beam theory includes the three familiar beam theories (namely, Euler-Bernoulli beam theory, Timoshenko beam theory, and third-order Reddy beam theory) as special cases. The unified beam formulation can be used to facilitate the development of general finite element codes for different beam theories. Nonlocal size-dependent properties are introduced through classical strain gradient theories. The von Kármán nonlinearity which accounts for the coupling between extensional and bending responses in beams with moderately large rotations but small strains is included. Equations for each beam theory can be deduced by setting the values of certain parameters. Newton's iterative scheme is used to solve the resulting nonlinear set of finite element equations. The numerical results show that both the strain gradient theory and the von Kármán nonlinearity have a stiffening effect, and therefore, reduce the displacements. The influence is more prominent in thin beams when compared to thick beams.}
 }
 
 @article{Khodabakhshi_Reddy_Srinivasa_2016Meccanica,
-  author = {Khodabakhshi, Parisa and Reddy, J.N. and Srinivasa, A.},
-  title = {GraFEA: A Graph Based Finite Element Approach for the Study of Damage and Fracture in Brittle Materials},
+  author = {Khodabakhshi, Parisa and Reddy, J.N. and Srinivasa, Arun},
+  title = {GraFEA: A graph based finite element approach for the study of damage and fracture in brittle materials},
   journal = {Meccanica},
   year = {2016},
   volume = {51},
   number = {12},
   pages = {3129--3147},
-  doi = {10.1007/s11012-016-0468-4}
+  doi = {10.1007/s11012-016-0560-6},
+  bibtex_show = {true},
+  abstract = {In this paper the conventional finite element method for linear elastic response is reformulated in such a way that makes it favorable for the study of damage and fracture in brittle materials. This modified finite element framework is based on the idea presented by Reddy and Srinivasa (Finite Elem Anal Des 104:35–40, 2015), where it was shown that for discretized hyperelastic materials, the magnitude of the nodal forces (in the discretized form) can be written in terms of the axial strains along the edges of the elements and that the equilibrium equations at each node can be written in terms of the forces along the edges alone. Using this concept and by exploiting the fact that FEM discretization leads to an undirected cyclic graph with nodes and edges whose connectivity is related to the elements of the FEM, one can reformulate the displacement-based finite element framework with constant strain triangular elements to represent the continuum as a nonlocal network. The network representation of the continuum is “nonlocal” in the sense that the force along any given edge doesn’t only depend on the strain along that edge, but on a collective behavior of the strains along the edges neighboring the edge of interest. This method is named as GraFEA (for graph-based finite element analysis). Damage is introduced using a nonlocal damage criterion originating from the idea of the weakest links statistics proposed by Lin, Evans, and Ritchie (J Mech Phys Solids 34(5):477–497, 1986). This idea, which was very successful in studying cleavage fracture of mild steel at very low temperatures, can be used to impose a damage criterion to the nolocal network. GraFEA has the major advantage that one can impose an edge-based failure criterion using the weakest link thoery directly on the discretized body, and potentially simulating crack initiation, crack growth, and branching without the need for extra enrichment functions (as with other methods). The simplicity of the method and the fact that it is based on conventional finite element method makes it suitable for integration into commercial softwares. The governing equations for this approach are derived and applied to two simple crack growth simulations (as a proof of concept) in two-dimensional regions with a hole.}
 }
 
 @article{Khodabakhshi_Reddy_2015IJES,
