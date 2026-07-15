@@ -42,6 +42,7 @@ nav_order: 4
 </div>
 
 <div style="clear: both;"></div>
+<hr style="margin: 1rem 0;">
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -58,7 +59,7 @@ nav_order: 4
       <span style="font-size:1.5rem; font-weight:600;">
         Liam K. Magargal
       </span><br>
-      <strong>Ph.D. Candidate</strong><br>
+      <strong>Ph.D. Candidate (started Fall 2023)</strong><br>
       Packard Laboratory 201
     </div>
 
@@ -70,12 +71,68 @@ nav_order: 4
 </div>
 
 <div style="clear: both;"></div>
+<hr style="margin: 1rem 0;">
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/placeholder_profile.png"
+      alt="Amin Atabaki Lachini"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Amin Atabaki Lachini
+      </span><br>
+      <strong>Ph.D. Student (started Fall 2024)</strong><br>
+      Packard Laboratory 201
+    </div>
+
+    <p>
+      Amin Atabaki Lachini is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. His research focuses on non-intrusive projection-based model reduction, multifidelity methods, and computational mechanics for the efficient simulation of complex engineering systems. He earned his B.S. in Mechanical Engineering from Amirkabir University of Technology.
+    </p>
+
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+<hr style="margin: 1rem 0;">
 
 
-<p>
-  Information about current graduate and undergraduate researchers will be
-  added here.
-</p>
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/placeholder_profile.png"
+      alt="Omar Menendez Testa"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Omar Men&eacute;ndez Testa
+      </span><br>
+      <strong>Ph.D. Student (started Fall 2026)</strong><br>
+      Packard Laboratory 201
+    </div>
+
+    <p>
+      Omar Menéndez Testa is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. He earned his B.S. in Mechanical Engineering from the University of Oviedo and is completing an M.S. in Space Engineering at Universidad Carlos III de Madrid. His research focuses on the structural performance of tidal turbines, with interests in computational mechanics, finite element analysis, scientific machine learning, and reduced-order modeling.
+    </p>
+
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+<hr style="margin: 1rem 0;">
+
+
 
 <hr style="margin: 3rem 0;">
 
