@@ -2,19 +2,19 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://engineering.lehigh.edu/faculty/parisa-khodabakhshi">Assistant Professor</a>. <a href="https://engineering.lehigh.edu/meche">Department of Mechanical Engineering and Mechanics</a>. Lehigh University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>453 Packard Lab</p>
+    <p>19 Memorial Drive West</p>
+    <p>Bethlehem, PA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
