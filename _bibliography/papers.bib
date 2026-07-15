@@ -9,7 +9,9 @@
   volume = {42},
   pages = {133},
   doi = {10.1007/s00366-026-02358-6},
-  selected = {true}
+  html = {https://doi.org/10.1007/s00366-026-02358-6},
+  bibtex_show = {true}
+  abstract = {This study proposes an intrusive projection-based model-order reduction framework for nonlinear problems with a polynomial structure, solved iteratively using a Newton solver in the reduced space. It is demonstrated that for the targeted class of polynomial nonlinearities, all operators appearing in the projected approximate residual and Jacobian can be precomputed in the offline phase, eliminating the need for hyper-reduction. Additionally, the evaluation of both the projected approximate residual and its Jacobian scales only with the dimension of the reduced space, and does not depend on the dimension of the full-order model, enabling effective offline-online decomposition. The proposed hyper-reduction-free (HRF) framework is applied to both Galerkin (HRF-G) and least-squares Petrov-Galerkin (HRF-LSPG) projection schemes. The accuracy and computational efficiency of the proposed HRF schemes are evaluated in two numerical experiments and compared with a commonly used hyper-reduction scheme, namely the energy-conserving sampling and weighting method, for both the Galerkin and LSPG schemes. In the first numerical example, a parametric Burgers’ equation is used to assess the predictive capabilities of the considered model reduction approaches on parameter sets not seen in the training snapshots. In the second example, a parametric heat equation with a cubic reaction term is studied, for which a lifting transformation is employed to expose the desired structure. The efficacy of the HRF methods in accurately reducing the dimensionality of the lifted formulation is investigated. For the studied problems, the results show that HRF-G and HRF-LSPG achieve two and one order of magnitude speedup, respectively, with respect to the full-order model while resulting in state prediction errors below $O(10^{-2}) .}
 }
 
 @article{Alibakhshi_Khodabakhshi2026MLE,
