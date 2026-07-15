@@ -65,23 +65,26 @@
 
 @article{Khodabakhshi_Willcox_2022CMAME,
   author = {Khodabakhshi, Parisa and Willcox, Karen E.},
-  title = {Non-intrusive Data-driven Model Reduction for Differential Algebraic Equations Derived from Lifting Transformations},
+  title = {Non-intrusive data-driven model reduction for differential algebraic equations derived from lifting transformations},
   journal = {Computer Methods in Applied Mechanics and Engineering},
   year = {2022},
   volume = {389},
   pages = {114296},
   doi = {10.1016/j.cma.2021.114296},
-  selected = {true}
+  bibtex_show = {true},
+  abstract = {This paper presents a non-intrusive data-driven approach for model reduction of nonlinear systems. The approach considers the particular case of nonlinear partial differential equations (PDEs) that form systems of partial differential–algebraic equations (PDAEs) when lifted to polynomial form. Such systems arise, for example, when the governing equations include Arrhenius reaction terms (e.g., in reacting flow models) and thermodynamic terms (e.g., the Helmholtz free energy terms in a phase-field solidification model). Using the known structured form of the lifted algebraic equations, the approach computes the reduced operators for the algebraic equations explicitly, using straightforward linear algebra operations on the basis matrices. The reduced operators for the differential equations are inferred from lifted snapshot data using operator inference, which solves a linear least squares regression problem. The approach is illustrated for the nonlinear model of solidification of a pure material. The lifting transformations reformulate the solidification PDEs as a system of PDAEs that have cubic structure. The operators of the lifted system for this solidification example have affine dependence on key process parameters, permitting us to learn a parametric reduced model with operator inference. Numerical experiments show the effectiveness of the resulting reduced models in capturing key aspects of the solidification dynamics.}
 }
 
 @article{Khodabakhshi_Willcox_Gunzburger_2021AML,
   author = {Khodabakhshi, Parisa and Willcox, Karen E. and Gunzburger, Max},
-  title = {A Multifidelity Method for a Nonlocal Diffusion Model},
+  title = {A Multifidelity method for a nonlocal diffusion model},
   journal = {Applied Mathematics Letters},
   year = {2021},
   volume = {121},
   pages = {107361},
-  doi = {10.1016/j.aml.2021.107361}
+  doi = {10.1016/j.aml.2021.107361},
+  bibtex_show = {true},
+  abstract = {Nonlocal models feature a finite length scale, referred to as the horizon, such that points separated by a distance smaller than the horizon interact with each other. Such models have proven to be useful in a variety of settings. However, due to the reduced sparsity of discretizations, they are also generally computationally more expensive compared to their local differential equation counterparts. We introduce a multifidelity Monte Carlo method that combines the high-fidelity nonlocal model of interest with surrogate models that use coarser grids and/or smaller horizons and thus have lower fidelities and lower costs. Using the multifidelity method, the overall computational cost of uncertainty quantification is reduced without compromising accuracy. It is shown for a one-dimensional nonlocal diffusion example that speedups of up to two orders of magnitude can be achieved using the multifidelity method to estimate the expectation of an output of interest.}
 }
 
 @article{Khodabakhshi_Reddy_Srinivasa_2019Acta,
