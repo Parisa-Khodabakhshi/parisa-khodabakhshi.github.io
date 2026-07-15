@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-## Principal Investigator
+<h2>current group members</h2>
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -20,7 +20,7 @@ nav_order: 4
   <div class="col-sm-8">
 
     <div style="line-height:1.35; margin-bottom:1rem;">
-      <span style="font-size:1.7rem; font-weight:700;">
+      <span style="font-size:1.5rem; font-weight:600;">
         Dr. Parisa Khodabakhshi
       </span><br>
       <strong>Principal Investigator</strong><br>
@@ -33,9 +33,6 @@ nav_order: 4
       joined the faculty in August 2022. Prior to joining Lehigh, she was a
       Postdoctoral Research Fellow at the Oden Institute for Computational
       Engineering &amp; Sciences at The University of Texas at Austin.
-    </p>
-
-    <p>
       Dr. Khodabakhshi received her Ph.D. in Civil Engineering from Texas A&amp;M
       University. She also earned her B.S. in Civil Engineering and M.S. in
       Earthquake Engineering from Sharif University of Technology.
@@ -46,7 +43,6 @@ nav_order: 4
 
 <div style="clear: both;"></div>
 
-<h2>Current Group Members</h2>
 
 <p>
   Information about current graduate and undergraduate researchers will be
