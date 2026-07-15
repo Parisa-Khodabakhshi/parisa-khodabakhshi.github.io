@@ -43,7 +43,6 @@ nav_order: 4
 
   </div>
 </div>
-margin-bottom: 3rem;
 
 ## Current Group Members
 
