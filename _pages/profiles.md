@@ -1,22 +1,46 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
+title: People
 nav: true
 nav_order: 4
-
-profiles:
-  - align: left
-    image: Portrait_December_2024.png
-    image_circular: false
-    content: about_parisa.md
-
-  - align: left
-    image: prof_pic.jpg
-    image_circular: false
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-    content: about_einstein.md
 ---
+
+## Principal Investigator
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/Portrait_December_2024.png"
+      alt="Dr. Parisa Khodabakhshi"
+      style="width: 240px; height: 300px; object-fit: cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+    {% include_relative about_parisa.md %}
+  </div>
+</div>
+
+## Current Group Members
+
+Information about current graduate and undergraduate researchers will be added here.
+
+---
+
+## Former Group Members
+
+### Ph.D. Students
+
+- **Name**, Ph.D. in Mechanical Engineering, Year  
+  Current position: ...
+
+### M.S. Students
+
+- **Name**, M.S. in Mechanical Engineering, Year  
+  Thesis: ...
+
+### Undergraduate Researchers
+
+- **Name**, Undergraduate Researcher, Year  
+  Project: ...
