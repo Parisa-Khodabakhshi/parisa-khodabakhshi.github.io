@@ -13,7 +13,7 @@ nav_order: 4
     <img
       src="/assets/img/Portrait_December_2024.png"
       alt="Dr. Parisa Khodabakhshi"
-      style="width:240px; height:300px; object-fit:cover;"
+      style="width:192px; height:240px; object-fit:cover;"
     >
   </div>
 
