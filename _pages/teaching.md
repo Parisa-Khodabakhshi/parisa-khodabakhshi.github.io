@@ -6,6 +6,15 @@ nav: true
 nav_order: 3
 calendar: false
 ---
+<style>
+  .post-title {
+    display: none;
+  }
+
+  .post-header {
+    margin-bottom: 0;
+  }
+</style>
 
 {% comment %}
 
