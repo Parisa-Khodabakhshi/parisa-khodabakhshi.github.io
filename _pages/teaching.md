@@ -17,15 +17,15 @@ calendar: false
 </style>
 
 
-# Courses Taught
+## Courses Taught
 
-## Lehigh University
+### Lehigh University
 
 - **MECH 012 – Strength of Materials** (Spring 2026)
 - **MECH 418 – Finite Element Method** (Spring 2024, Spring 2025)
 - **ENGR 452 / ME 452 / BIOE 452 / CHE 452 – Mathematical Methods in Engineering I** (Fall 2022, Fall 2023, Fall 2024, Fall 2025)
 
-## Texas A&M University
+### Texas A&M University
 
 - **CVEN 305 – Mechanics of Materials** (Fall 2016, Spring 2017)
 
