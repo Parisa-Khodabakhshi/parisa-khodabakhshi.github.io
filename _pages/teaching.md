@@ -18,6 +18,7 @@ calendar: false
 
 
 ## Courses Taught
+<div style="height: 2rem;"></div>
 
 ### Lehigh University
 
