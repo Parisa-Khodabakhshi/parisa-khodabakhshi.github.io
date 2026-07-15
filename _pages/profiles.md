@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /people/
-title: people
 nav: true
 nav_order: 4
 ---
 
-<h2>current group members</h2>
+<h2>Current Group Members</h2>
 <div style="height: 1rem;"></div>
 
 <div class="row mb-5">
