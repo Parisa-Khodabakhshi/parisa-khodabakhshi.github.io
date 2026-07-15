@@ -4,7 +4,6 @@ title: news
 permalink: /news/
 nav: true
 nav_order: 5
-description: News and updates from the Khodabakhshi Research Group.
 ---
 
 <div id="news-list">
