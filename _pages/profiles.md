@@ -138,7 +138,7 @@ nav_order: 4
 
 <ul>
   <li>
-    <strong>Mohammadamin Alibakhshi</strong>, Year<br>
+    <strong>Mohammadamin Alibakhshi</strong>, 2025<br>
     Thesis: Efficient machine learning for progressive damage analysis in fiber-reinforced composites<br>
     Position after graduation: Ph.D. student at Oklahoma State University
   </li>
