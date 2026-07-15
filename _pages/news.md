@@ -3,7 +3,7 @@ layout: page
 title: news
 permalink: /news/
 nav: true
-nav_order: 6
+nav_order: 5
 description: News and updates from the Khodabakhshi Research Group.
 ---
 
