@@ -2,7 +2,7 @@
 ---
 layout: page
 title: outreach
-permalink: /join/
+permalink: /outreach/
 nav: true
 nav_order: 6
 ---
