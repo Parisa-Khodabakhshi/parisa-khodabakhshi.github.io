@@ -148,15 +148,18 @@ nav_order: 4
 
 <ul>
   <li>
-    <strong>Trang Tran</strong>, Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
+    <strong>Trang Tran</strong>, Computer Science <br>
+    Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
     Project: Scalable node clustering for graph autoencoders used in model-order reduction
   </li>
   <li>
-    <strong>Stephanie Moreno-Rivera</strong>, STEM-SI Student, May 2025 - Aug. 2025<br>
+    <strong>Stephanie Moreno-Rivera</strong>, Mechanical Engineering <br>
+    STEM-SI Student, May 2025 - Aug. 2025<br>
     Project: Applying a normalized eigengap heuristic to detect nested hierarchical structures in meshes used in engineering
   </li>
   <li>
-    <strong>Stephanie Moreno-Rivera</strong>, STEM-SI Student, May 2024 - Aug. 2024<br>
+    <strong>Stephanie Moreno-Rivera</strong>, Mechanical Engineering <br>
+    STEM-SI Student, May 2025 - Aug. 2025<br>
     Project: Optimal number of clusters for spectral clustering of 2-D unstrucutured meshes
   </li>
 </ul>
