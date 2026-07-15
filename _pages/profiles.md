@@ -67,7 +67,7 @@ nav_order: 4
 
   </div>
 </div>
-<div style="height: 1rem;"></div>
+<div style="height: 3rem;"></div>
 
 
 <div class="row mb-5">
@@ -95,7 +95,7 @@ nav_order: 4
 
   </div>
 </div>
-<div style="height: 1rem;"></div>
+<div style="height: 3rem;"></div>
 
 
 
@@ -119,16 +119,15 @@ nav_order: 4
     </div>
 
     <p>
-      Omar Menéndez Testa is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. He earned his B.S. in Mechanical Engineering from the University of Oviedo and is completing an M.S. in Space Engineering at Universidad Carlos III de Madrid. His research focuses on the structural performance of tidal turbines, with interests in computational mechanics, finite element analysis, scientific machine learning, and reduced-order modeling.
+      Omar Menéndez Testa is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. He earned his B.S. in Mechanical Engineering from the University of Oviedo and is completing an M.S. in Space Engineering at Universidad Carlos III de Madrid. His research focuses on the structural performance of tidal turbines.
     </p>
 
   </div>
 </div>
-<div style="height: 1rem;"></div>
+<div style="height: 3rem;"></div>
 
 
 
-<hr style="margin: 3rem 0;">
 
 <h2>Former Group Members</h2>
 
