@@ -6,7 +6,15 @@ nav: true
 nav_order: 1
 horizontal: false
 ---
+<style>
+  .post-title {
+    display: none;
+  }
 
+  .post-header {
+    margin-bottom: 0;
+  }
+</style>
 
 {% comment %}
 
