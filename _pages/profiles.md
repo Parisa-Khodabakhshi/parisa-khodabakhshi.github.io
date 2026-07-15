@@ -7,12 +7,8 @@ nav_order: 4
 
 profiles:
   - align: left
-    image: Portrait.JPG
+    image: Portrait_December_2024.png
     image_circular: false
-    more_info: >
-      <h3><strong>Dr. Parisa Khodabakhshi</strong></h3>
-      <p><strong>Principal Investigator</strong></p>
-      <p>Packard 453</p>
     content: about_parisa.md
 
   - align: left
