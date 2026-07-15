@@ -5,7 +5,6 @@ title: people
 nav: true
 nav_order: 4
 
-{% comment %}
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -27,7 +26,5 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-
-{% endcomment %}
 ---
 
