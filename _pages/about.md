@@ -6,7 +6,7 @@ subtitle: <a href="https://engineering.lehigh.edu/faculty/parisa-khodabakhshi">A
 
 profile:
   align: right
-  image: Portrait.jpg
+  image: Portrait.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>453 Packard Lab</p>
