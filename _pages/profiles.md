@@ -7,6 +7,7 @@ nav_order: 4
 ---
 
 <h2>current group members</h2>
+<div style="height: 1rem;"></div>
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -130,22 +131,16 @@ nav_order: 4
 
 <div style="height: 2rem;"></div>
 <h2>Former Group Members</h2>
+<div style="height: 1rem;"></div>
 
-<h3>Ph.D. Students</h3>
-
-<ul>
-  <li>
-    <strong>Name</strong>, Ph.D. in Mechanical Engineering, Year<br>
-    Current position: ...
-  </li>
-</ul>
 
 <h3>M.S. Students</h3>
 
 <ul>
   <li>
-    <strong>Name</strong>, M.S. in Mechanical Engineering, Year<br>
-    Thesis: ...
+    <strong>Mohammadamin Alibakhshi</strong>, Year<br>
+    Thesis: Efficient machine learning for progressive damage analysis in fiber-reinforced composites<br>
+    Position after graduation: Ph.D. student at Oklahoma State University
   </li>
 </ul>
 
@@ -153,7 +148,7 @@ nav_order: 4
 
 <ul>
   <li>
-    <strong>Name</strong>, Undergraduate Researcher, Year<br>
-    Project: ...
+    <strong>Trang Tran</strong>, Rossin Research Scholar, Jan. 2025 -- April 2026<br>
+    Project: Scalable node clustering for graph autoencoders used in model-order reduction
   </li>
 </ul>
