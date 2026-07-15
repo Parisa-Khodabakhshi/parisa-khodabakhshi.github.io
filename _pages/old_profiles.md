@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /old_people/
 title: people
 nav: false
 nav_order: 4
