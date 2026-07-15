@@ -44,25 +44,42 @@ nav_order: 4
   </div>
 </div>
 
-## Current Group Members
+<div style="clear: both;"></div>
 
-Information about current graduate and undergraduate researchers will be added here.
+<h2>Current Group Members</h2>
 
----
+<p>
+  Information about current graduate and undergraduate researchers will be
+  added here.
+</p>
 
-## Former Group Members
+<hr style="margin: 3rem 0;">
 
-### Ph.D. Students
+<h2>Former Group Members</h2>
 
-- **Name**, Ph.D. in Mechanical Engineering, Year  
-  Current position: ...
+<h3>Ph.D. Students</h3>
 
-### M.S. Students
+<ul>
+  <li>
+    <strong>Name</strong>, Ph.D. in Mechanical Engineering, Year<br>
+    Current position: ...
+  </li>
+</ul>
 
-- **Name**, M.S. in Mechanical Engineering, Year  
-  Thesis: ...
+<h3>M.S. Students</h3>
 
-### Undergraduate Researchers
+<ul>
+  <li>
+    <strong>Name</strong>, M.S. in Mechanical Engineering, Year<br>
+    Thesis: ...
+  </li>
+</ul>
 
-- **Name**, Undergraduate Researcher, Year  
-  Project: ...
+<h3>Undergraduate Researchers</h3>
+
+<ul>
+  <li>
+    <strong>Name</strong>, Undergraduate Researcher, Year<br>
+    Project: ...
+  </li>
+</ul>
