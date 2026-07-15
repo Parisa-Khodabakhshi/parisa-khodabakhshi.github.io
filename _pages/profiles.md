@@ -43,6 +43,34 @@ nav_order: 4
 
 <div style="clear: both;"></div>
 
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/Portrait_December_2024.png"
+      alt="Dr. Parisa Khodabakhshi"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Liam K. Magargal
+      </span><br>
+      <strong>Ph.D. Candidate</strong><br>
+      Packard Laboratory 201
+    </div>
+
+    <p>
+      Liam K. Magargal is an NDSEG Fellow and Ph.D. candidate in the Department of Mechanical Engineering & Mechanics at Lehigh University. His research focuses on scientific machine learning, model-order reduction, and computational mechanics for accelerating the simulation of complex engineering systems. He earned his B.S. in Mechanical Engineering from Lehigh University.
+    </p>
+
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
 
 <p>
   Information about current graduate and undergraduate researchers will be
