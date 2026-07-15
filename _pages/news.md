@@ -5,6 +5,15 @@ permalink: /news/
 nav: true
 nav_order: 6
 ---
+<style>
+  .post-title {
+    display: none;
+  }
+
+  .post-header {
+    margin-bottom: 0;
+  }
+</style>
 
 <div id="news-list">
   {% assign sorted_news = site.news | sort: "date" | reverse %}
