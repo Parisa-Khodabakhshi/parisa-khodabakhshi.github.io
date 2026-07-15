@@ -39,26 +39,28 @@
 }
 
 @article{Khodabakhshi_Burkovska_Willcox_Gunzburger_2024CS,
-  author = {Khodabakhshi, Parisa and Burkovska, Olga and Willcox, Karen E. and Gunzburger, Max},
-  title = {Multifidelity Methods for Uncertainty Quantification of a Nonlocal Model for Phase Changes in Materials},
+  author = {Khodabakhshi, Parisa and Burkovska, Olena and Willcox, Karen E. and Gunzburger, Max},
+  title = {Multifidelity methods for uncertainty quantification of a nonlocal model for phase changes in materials},
   journal = {Computers \& Structures},
   year = {2024},
   volume = {297},
   pages = {107328},
   doi = {10.1016/j.compstruc.2024.107328},
-  selected = {true}
+  bibtex_show = {true},
+  abstract = {This study is devoted to the construction of a multifidelity Monte Carlo (MFMC) method for the uncertainty quantification of a nonlocal, non-mass-conserving Cahn-Hilliard model for phase transitions with an obstacle potential. We are interested in estimating the expected value of an output of interest (OoI) that depends on the solution of the nonlocal Cahn-Hilliard model. As opposed to its local counterpart, the nonlocal model captures sharp interfaces without the need for significant mesh refinement. However, the computational cost of the nonlocal Cahn-Hilliard model is higher than that of its local counterpart with similar mesh refinement, inhibiting its use for outer-loop applications such as uncertainty quantification. The MFMC method augments the desired high-fidelity, high-cost OoI with a set of lower-fidelity, lower-cost OoIs to alleviate the computational burden associated with nonlocality. Most of the computational budget is allocated to sampling the cheap surrogate models to achieve speedup, whereas the high-fidelity model is sparsely sampled to maintain accuracy. For the non-mass-conserving nonlocal Cahn-Hilliard model, the use of the MFMC method results in, for a given computational budget, about an order of magnitude reduction in the mean-squared error of the expected value of the OoI relative to that of the Monte Carlo method.}
 }
 
 @article{McQuarrie_Khodabakhshi_Willcox_2023SISC,
-  author = {McQuarrie, S. and Khodabakhshi, Parisa and Willcox, Karen E.},
-  title = {Non-intrusive Reduced-order Models for Parametric Partial Differential Equations via Data-driven Operator Inference},
+  author = {McQuarrie, Shane A. and Khodabakhshi, Parisa and Willcox, Karen E.},
+  title = {Non-intrusive reduced-order models for parametric partial differential equations via data-driven operator inference},
   journal = {SIAM Journal on Scientific Computing},
   year = {2023},
   volume = {45},
   number = {4},
   pages = {A1917--A1946},
-  doi = {10.1137/22M1520348},
-  selected = {true}
+  doi = {10.1137/21M1452810},
+  bibtex_show = {true},
+  abstract = {This work formulates a new approach to reduced modeling of parameterized, time-dependent partial differential equations (PDEs). The method employs Operator Inference, a scientific machine learning framework combining data-driven learning and physics-based modeling. The parametric structure of the governing equations is embedded directly into the reduced-order model, and parameterized reduced-order operators are learned via a data-driven linear regression problem. The result is a reduced-order model that can be solved rapidly to map parameter values to approximate PDE solutions. Such parameterized reduced-order models may be used as physics-based surrogates for uncertainty quantification and inverse problems that require many forward solves of parametric PDEs. Numerical issues such as well-posedness and the need for appropriate regularization in the learning problem are considered, and an algorithm for hyperparameter selection is presented. The method is illustrated for a parametric heat equation and demonstrated for the FitzHugh–Nagumo neuron model.}
 }
 
 @article{Khodabakhshi_Willcox_2022CMAME,
