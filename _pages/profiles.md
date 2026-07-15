@@ -67,7 +67,7 @@ nav_order: 4
 
   </div>
 </div>
-<div style="height: 3rem;"></div>
+<div style="height: 1rem;"></div>
 
 
 <div class="row mb-5">
@@ -95,7 +95,7 @@ nav_order: 4
 
   </div>
 </div>
-<div style="height: 3rem;"></div>
+<div style="height: 1rem;"></div>
 
 
 
@@ -124,11 +124,11 @@ nav_order: 4
 
   </div>
 </div>
-<div style="height: 3rem;"></div>
+<div style="height: 1rem;"></div>
 
 
 
-
+<div style="height: 2rem;"></div>
 <h2>Former Group Members</h2>
 
 <h3>Ph.D. Students</h3>
