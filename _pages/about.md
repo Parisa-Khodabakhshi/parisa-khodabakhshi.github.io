@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href="https://engineering.lehigh.edu/faculty/parisa-khodabakhshi">Assistant Professor</a>. <a href="https://engineering.lehigh.edu/meche">Department of Mechanical Engineering and Mechanics</a>. Lehigh University
+subtitle: <a href="https://engineering.lehigh.edu/faculty/parisa-khodabakhshi">Assistant Professor</a>. <a href="https://engineering.lehigh.edu/meche">Department of Mechanical Engineering and Mechanics</a>. <a href="https://www2.lehigh.edu/">Lehigh University</a>
 
 profile:
   align: right
