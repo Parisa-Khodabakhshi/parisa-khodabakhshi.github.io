@@ -5,6 +5,16 @@ title: people
 nav: true
 nav_order: 4
 ---
+<style>
+  .post-title {
+    display: none;
+  }
+
+  .post-header {
+    margin-bottom: 0;
+  }
+</style>
+
 
 <h2>Current Group Members</h2>
 <div style="height: 1rem;"></div>
