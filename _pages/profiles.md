@@ -46,8 +46,8 @@ nav_order: 4
 <div class="row mb-5">
   <div class="col-sm-4">
     <img
-      src="/assets/img/Portrait_December_2024.png"
-      alt="Dr. Parisa Khodabakhshi"
+      src="/assets/img/Placeholder_profile.png"
+      alt="Liam Magargal"
       style="width:192px; height:240px; object-fit:cover;"
     >
   </div>
