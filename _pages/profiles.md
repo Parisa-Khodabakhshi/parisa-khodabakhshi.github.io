@@ -41,8 +41,6 @@ nav_order: 4
   </div>
 </div>
 
-<div style="clear: both;"></div>
-<hr style="margin: 1rem 0;">
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -70,8 +68,6 @@ nav_order: 4
   </div>
 </div>
 
-<div style="clear: both;"></div>
-<hr style="margin: 1rem 0;">
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -99,8 +95,6 @@ nav_order: 4
   </div>
 </div>
 
-<div style="clear: both;"></div>
-<hr style="margin: 1rem 0;">
 
 
 <div class="row mb-5">
@@ -128,9 +122,6 @@ nav_order: 4
 
   </div>
 </div>
-
-<div style="clear: both;"></div>
-<hr style="margin: 1rem 0;">
 
 
 
