@@ -48,6 +48,32 @@
   abstract = {Graph autoencoders, which have seen growing use for dimensionality reduction of simulations in computational mechanics modeled by unstructured meshes, are dependent upon hierarchical generation of lower-dimensional graphs based on a node-clustering scheme. In earlier studies, the hierarchy of reduced graphs was generated using the spectral clustering algorithm, which leverages graph topology by performing an eigendecomposition of the graph Laplacian to identify clusters aligned with the physical domain's inherent geometry. However, for large graphs, the eigendecomposition can be expensive to compute directly. In this study, we investigate alternative node clustering schemes and assess their respective advantages and disadvantages, with a particular focus on scalability.}
 }
 
+@inproceedings{Khodabakhshi_Seylabi2024ASC,
+  title={Efficient design of laminate composites using ensemble Kalman inversion method},
+  author={Khodabakhshi, Parisa and Seylabi, Elnaz},
+  booktitle={Design and Analysis of Composites: Proceedings of the American Society for Composites 39th Technical Conference, Volume 1},
+  volume={1},
+  pages={87},
+  year={2024},
+  organization={Springer Nature},
+  doi = {10.1007/978-3-032-01730-7_7},
+  bibtex_show = {true},
+  abstract = {Composites are the preferred choice of material for many engineering applications, including defense, aviation, automotive industries, and civil infrastructure, owing to their potential to achieve superior performance. Proper exploration of the design space for fiber-reinforced composites is necessary for innovative and performance-based composites design. However, due to the high dimensionality of the design space, its exploration is computationally very costly. The focus of this study is the efficient design of laminate composites using an approximate Bayesian method based on the ensemble Kalman inversion (EKI) to map the homogenized laminate properties to the corresponding ply-level properties. Unlike some of the sampling-based approaches, such as the Markov Chain Monte Carlo method, EKI does not suffer from the high dimensionality of the parametric space, and it provides an efficient inverse problem framework for the design of laminate composites. Prior knowledge will be incorporated in EKI as constraints in the form of equalities and inequalities to further regularize the inverse problem framework.}
+}
+
+@inproceedings{Alibakhshi_Khodabakhshi2024ASC,
+  title={Use of convolutional neural networks for microscale simulations in progressive damage analysis in composites},
+  author={Alibakhshi, Mohammadamin and Khodabakhshi, Parisa},
+  booktitle={Performance and Durability of Composite Materials: Proceedings of the American Society for Composites 39th Technical Conference, Volume 2},
+  volume={2},
+  pages={209--220},
+  year={2024},
+  organization={Springer Nature},
+  doi = {10.1007/978-3-032-05208-7_15},
+  bibtex_show = {true},
+  abstract = {Due to the inherent heterogeneity of composite materials, their part-scale properties will strongly depend on constituent properties at the microscale. Multiscale simulations help link constituent-level features to the performance of the composite structure through a two-way coupling between the micro- and macroscale simulations and by applying homogenization and localization approaches to move from microscale to macroscale and vice versa. The finite element method, a high-fidelity model that can be used at the microscale to obtain the homogenized properties of a repeating unit cell (RUC) to be reported to the macroscale, has computational costs that are prohibitively high for multiscale simulations. On the other hand, micromechanics models are a class of semi-analytical models that predict the homogenized properties and local fields of composite materials for a given RUC at a relatively lower computational cost. However, the existence of damage, thermal effects, or plasticity necessitates the iterative evaluation of the homogenized properties, which would result in high computational costs even with the use of micromechanics models. This study is focused on the use of the convolutional neural network (CNN) to effectively and accurately map the constituent properties and a given damage pattern in the RUC to its effective properties. The CNN is trained on data obtained from the Generalized Method of Cells (GMC) for different RUC geometries and material properties. The CNN helps reduce the computational burden associated with evaluating the homogenized properties in progressive damage analysis by about one to two orders of magnitude.}
+}
+
 @article{Magargal_Khodabakhshi_Rodriguez_Jaworski_Michopoulos_2025DCE,
   author = {Magargal, Liam K. and Khodabakhshi, Parisa and Rodriguez, Steven N. and Jaworski, Justin W. and Michopoulos, Justin G.},
   title = {Projection-based model-order reduction via graph autoencoders suited for unstructured meshes},
