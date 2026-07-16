@@ -125,7 +125,7 @@ nav_order: 4
       <span style="font-size:1.5rem; font-weight:600;">
         Omar Men&eacute;ndez Testa
       </span><br>
-      <strong>Ph.D. Student (started Fall 2026)</strong><br>
+      <strong>Ph.D. Student (to start in Fall 2026)</strong><br>
       Packard Laboratory 201
     </div>
 
