@@ -16,6 +16,11 @@ horizontal: false
   }
 </style>
 
+Please check back for an update soon.
+
+
+
+
 {% comment %}
 
 <!-- pages/projects.md -->
