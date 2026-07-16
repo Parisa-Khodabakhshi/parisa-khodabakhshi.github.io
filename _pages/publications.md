@@ -22,7 +22,8 @@ nav_order: 2
 </style>
 
 <p>
-If you have any questions regarding my publications or would like to request a copy of a paper, please feel free to <a href="mailto:pak322@lehigh.edu">contact me</a>. A complete and up-to-date list of my publications, citations, and research metrics is also available on <a href="https://scholar.google.com/citations?user=lYr_g-MAAAAJ" target="_blank">Google Scholar</a>.
+If you have any questions regarding my publications or would like to request a copy of a paper, please feel free to <a href="mailto:pak322@lehigh.edu">contact me</a>. A complete and up-to-date list of my publications is also available on <a href="https://scholar.google.com/citations?user=lYr_g-MAAAAJ" target="_blank">Google Scholar</a>. <br>
+Publications are in reverse chronological order.
 </p>
 
 <!-- Bibsearch feature -->
