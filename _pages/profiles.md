@@ -101,7 +101,7 @@ nav_order: 4
     </div>
 
     <p>
-      Amin Atabaki Lachini is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. His research focuses on non-intrusive projection-based model reduction, multifidelity methods, and computational mechanics for the efficient simulation of complex engineering systems. He earned his B.S. from Amirkabir University of Technology.
+      Amin Atabaki Lachini is a Ph.D. student in the Department of Mechanical Engineering & Mechanics at Lehigh University. His research focuses on non-intrusive projection-based model reduction, multifidelity methods, and computational mechanics for the efficient simulation of complex engineering systems. He earned his B.S. in Aerospace Engineering from Amirkabir University of Technology.
     </p>
 
   </div>
