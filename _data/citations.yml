@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-24'
 papers:
   lYr_g-MAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -22,7 +22,7 @@ papers:
     title: "Non-intrusive data-driven model reduction for differential\u2013algebraic equations derived from lifting transformations"
     year: '2022'
   lYr_g-MAAAAJ:9yKSN-GCB0IC:
-    citations: 264
+    citations: 265
     title: A unified integro-differential nonlocal model
     year: '2015'
   lYr_g-MAAAAJ:KlAtU1dfN6UC:
