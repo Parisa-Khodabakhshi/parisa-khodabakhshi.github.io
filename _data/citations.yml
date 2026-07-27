@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   lYr_g-MAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -22,7 +22,7 @@ papers:
     title: "Non-intrusive data-driven model reduction for differential\u2013algebraic equations derived from lifting transformations"
     year: '2022'
   lYr_g-MAAAAJ:9yKSN-GCB0IC:
-    citations: 265
+    citations: 264
     title: A unified integro-differential nonlocal model
     year: '2015'
   lYr_g-MAAAAJ:KlAtU1dfN6UC:
@@ -35,10 +35,10 @@ papers:
     year: '2026'
   lYr_g-MAAAAJ:MXK_kJrjxJIC:
     citations: 86
-    title: Nonintrusive reduced-order models for parametric partial differential equations via data-driven operator inference
-    year: '2023'
+    title: Oden Institute REPORT 202117
+    year: '2021'
   lYr_g-MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 37
+    citations: 38
     title: "A unified beam theory with strain gradient effect and the von K\xE1rm\xE1n nonlinearity"
     year: '2017'
   lYr_g-MAAAAJ:ULOm3_A8WrAC:
@@ -106,6 +106,6 @@ papers:
     title: On Nonlocal Elasticity and Peridynamics with Application to Beams and Plates
     year: '2013'
   lYr_g-MAAAAJ:u5HHmVD_uO8C:
-    citations: 7
+    citations: 8
     title: A discrete model for response estimation of soil-structure systems with embedded foundations
     year: '2011'
