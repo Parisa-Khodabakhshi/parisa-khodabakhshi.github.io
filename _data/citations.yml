@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-10'
 papers:
   lYr_g-MAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -18,11 +18,11 @@ papers:
     title: Efficient Design of Laminate Composites Using Ensemble Kalman Inversion
     year: '2026'
   lYr_g-MAAAAJ:5nxA0vEk-isC:
-    citations: 37
+    citations: 38
     title: "Non-intrusive data-driven model reduction for differential\u2013algebraic equations derived from lifting transformations"
     year: '2022'
   lYr_g-MAAAAJ:9yKSN-GCB0IC:
-    citations: 264
+    citations: 265
     title: A unified integro-differential nonlocal model
     year: '2015'
   lYr_g-MAAAAJ:KlAtU1dfN6UC:
@@ -34,9 +34,9 @@ papers:
     title: Scalable Node Clustering for Graph Autoencoders Used in Model-Order Reduction
     year: '2026'
   lYr_g-MAAAAJ:MXK_kJrjxJIC:
-    citations: 86
-    title: Oden Institute REPORT 202117
-    year: '2021'
+    citations: 89
+    title: Nonintrusive reduced-order models for parametric partial differential equations via data-driven operator inference
+    year: '2023'
   lYr_g-MAAAAJ:Tyk-4Ss8FVUC:
     citations: 38
     title: "A unified beam theory with strain gradient effect and the von K\xE1rm\xE1n nonlinearity"
