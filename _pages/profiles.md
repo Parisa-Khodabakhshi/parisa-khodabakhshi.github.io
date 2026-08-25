@@ -84,7 +84,7 @@ nav_order: 4
 <div class="row mb-5">
   <div class="col-sm-4">
     <img
-      src="/assets/img/placeholder_profile.png"
+      src="/assets/img/Amin_A.JPG"
       alt="Amin Atabaki Lachini"
       style="width:192px; height:240px; object-fit:cover;"
     >
