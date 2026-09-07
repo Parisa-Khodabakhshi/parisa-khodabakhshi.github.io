@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-07'
 papers:
   lYr_g-MAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -10,7 +10,7 @@ papers:
     title: NON-INTRUSIVE PARAMETRIC MODEL REDUCTION VIA DATA-DRIVEN OPERATOR INFERENCE
     year: Unknown Year
   lYr_g-MAAAAJ:4DMP91E08xMC:
-    citations: 0
+    citations: 1
     title: Hyper-reduction-free reduced-order Newton solvers for projection-based model-order reduction of nonlinear dynamical systems
     year: '2026'
   lYr_g-MAAAAJ:4TOpqqG69KYC:
@@ -34,15 +34,15 @@ papers:
     title: Scalable Node Clustering for Graph Autoencoders Used in Model-Order Reduction
     year: '2026'
   lYr_g-MAAAAJ:MXK_kJrjxJIC:
-    citations: 89
+    citations: 92
     title: Nonintrusive reduced-order models for parametric partial differential equations via data-driven operator inference
     year: '2023'
   lYr_g-MAAAAJ:Tyk-4Ss8FVUC:
-    citations: 38
+    citations: 39
     title: "A unified beam theory with strain gradient effect and the von K\xE1rm\xE1n nonlinearity"
     year: '2017'
   lYr_g-MAAAAJ:ULOm3_A8WrAC:
-    citations: 4
+    citations: 5
     title: Projection-based model-order reduction via graph autoencoders suited for unstructured meshes
     year: '2025'
   lYr_g-MAAAAJ:UeHWp8X0CEIC:
@@ -58,13 +58,13 @@ papers:
     title: Efficient two-stage sequential machine learning model for progressive damage analysis in fiber-reinforced composites
     year: '2026'
   lYr_g-MAAAAJ:Y0pCki6q_DkC:
-    citations: 44
+    citations: 45
     title: 'GraFEA: a graph-based finite element approach for the study of damage and fracture in brittle materials'
     year: '2016'
   lYr_g-MAAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: Meshless projection model-order reduction via reference spaces for smoothed-particle hydrodynamics
-    year: '2025'
+    year: '2026'
   lYr_g-MAAAAJ:Zph67rFs4hoC:
     citations: 1
     title: Projection-based model-order reduction for unstructured meshes with graph autoencoders
@@ -82,7 +82,7 @@ papers:
     title: On gradient elasticity and discrete peridynamics with applications to beams and plates
     year: '2013'
   lYr_g-MAAAAJ:hqOjcs7Dif8C:
-    citations: 22
+    citations: 23
     title: 'A nonlocal fracture criterion and its effect on the mesh dependency of GraFEA: P. Khodabakhshi et al.'
     year: '2019'
   lYr_g-MAAAAJ:kNdYIx-mwKoC:
@@ -98,7 +98,7 @@ papers:
     title: An Integro-differential nonlocal model for beams
     year: '2015'
   lYr_g-MAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
+    citations: 1
     title: Topology-Inspired Clustering Hierarchy for Graph Autoencoders via Spectral Graph Theory
     year: '2026'
   lYr_g-MAAAAJ:u-x6o8ySG0sC:
