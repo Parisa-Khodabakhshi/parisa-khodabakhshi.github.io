@@ -156,6 +156,10 @@ nav_order: 4
       </span><undergraduate Student (started Fall 2026)</strong><br>
     </div>
 
+    <p>
+      Gabrielle will be working on developing a bifidelity inverse design framework for the microscale design of fiber-reinforced composites, leveraging Bayesian statistical methods and ensemble Kalman inversion (EKI) to enable efficient material design and optimization.
+    </p>
+
   </div>
 </div>
 <div style="height: 1rem;"></div>
@@ -180,11 +184,6 @@ nav_order: 4
 <h3>Undergraduate Researchers</h3>
 
 <ul>
-  <li>
-    <strong>Gabrielle Sickler</strong>, Mechanical Engineering & Mechanics <br>
-    Undergraduate Researcher, Sep. 2026 - Present<br>
-    Project: Multifidelity micromechanics models for fiber-reinforced composites
-  </li>
   <li>
     <strong>Trang Tran</strong>, Computer Science <br>
     Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
