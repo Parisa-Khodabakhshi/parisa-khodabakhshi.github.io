@@ -153,7 +153,8 @@ nav_order: 4
     <div style="line-height:1.35; margin-bottom:1rem;">
       <span style="font-size:1.5rem; font-weight:600;">
         Gabrielle Sickler
-      </span><undergraduate Student (started Fall 2026)</strong><br>
+      </span><br>
+      <strong>Undergraduate Student (started Fall 2026)</strong><br>
     </div>
 
     <p>
