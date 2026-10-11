@@ -157,7 +157,7 @@ nav_order: 4
     </div>
 
     <p>
-      Gabrielle will be working on developing a bifidelity inverse design framework for the microscale design of fiber-reinforced composites, leveraging Bayesian statistical methods and ensemble Kalman inversion (EKI) to enable efficient material design and optimization.
+      Gabrielle Sickler is an undergraduate student in the Department of Mechanical Engineering & Mechanics at Lehigh University. Gabrielle is working on developing a bifidelity inverse design framework for the microscale design of fiber-reinforced composites, leveraging Bayesian statistical methods and ensemble Kalman inversion (EKI) to enable efficient material design and optimization.
     </p>
 
   </div>
