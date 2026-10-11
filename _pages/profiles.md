@@ -139,6 +139,29 @@ nav_order: 4
 
 
 
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/placeholder_profile.png"
+      alt="Gabrielle Sickler"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Gabrielle Sickler
+      </span><undergraduate Student (started Fall 2026)</strong><br>
+    </div>
+
+  </div>
+</div>
+<div style="height: 1rem;"></div>
+
+
+
 <div style="height: 2rem;"></div>
 <h2>Former Group Members</h2>
 <div style="height: 1rem;"></div>
