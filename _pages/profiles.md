@@ -163,7 +163,6 @@ nav_order: 4
     Project: Multifidelity micromechanics models for fiber-reinforced composites
   </li>
   <li>
-  <li>
     <strong>Trang Tran</strong>, Computer Science <br>
     Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
     Project: Scalable node clustering for graph autoencoders used in model-order reduction
