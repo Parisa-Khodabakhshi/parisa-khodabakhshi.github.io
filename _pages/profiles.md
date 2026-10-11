@@ -194,9 +194,6 @@ nav_order: 4
     <strong>Stephanie Moreno-Rivera</strong>, Mechanical Engineering & Mechanics <br>
     STEM-SI Student, May 2025 - Aug. 2025<br>
     Project: Applying a normalized eigengap heuristic to detect nested hierarchical structures in meshes used in engineering
-  </li>
-  <li>
-    <strong>Stephanie Moreno-Rivera</strong>, Mechanical Engineering & Mechanics <br>
     STEM-SI Student, May 2024 - Aug. 2024<br>
     Project: Optimal number of clusters for spectral clustering of 2-D unstrucutured meshes
   </li>
