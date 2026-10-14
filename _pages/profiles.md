@@ -173,7 +173,7 @@ nav_order: 4
 <div style="height: 1rem;"></div>
 
 
-<h3>&mdash; M.S. Students</h3>
+<h3>&ndash; M.S. Students</h3>
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -204,7 +204,7 @@ nav_order: 4
 <div style="height: 1rem;"></div>
 
 
-<h3>&mdash; Undergraduate Researchers</h3>
+<h3>&ndash; Undergraduate Researchers</h3>
 
 <div class="row mb-5">
   <div class="col-sm-4">
