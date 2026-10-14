@@ -16,7 +16,7 @@ nav_order: 4
 </style>
 
 
-<h2>Current Group Members</h2>
+<h2 style="font-weight:700;">Current Group Members</h2>
 <div style="height: 1rem;"></div>
 
 <div class="row mb-5">
@@ -167,12 +167,13 @@ nav_order: 4
 
 
 
+<hr style="margin-top:5rem; margin-bottom:2rem;">
 <div style="height: 2rem;"></div>
-<h2>Former Group Members</h2>
+<h2 style="font-weight:700;">Former Group Members</h2>
 <div style="height: 1rem;"></div>
 
 
-<h3>M.S. Students</h3>
+<h3>&mdash; M.S. Students</h3>
 
 <div class="row mb-5">
   <div class="col-sm-4">
@@ -203,7 +204,7 @@ nav_order: 4
 <div style="height: 1rem;"></div>
 
 
-<h3>Undergraduate Researchers</h3>
+<h3>&mdash; Undergraduate Researchers</h3>
 
 <div class="row mb-5">
   <div class="col-sm-4">
