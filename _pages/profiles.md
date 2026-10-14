@@ -189,10 +189,11 @@ nav_order: 4
       <span style="font-size:1.5rem; font-weight:600;">
         Mohammadamin Alibakhshi
       </span><br>
-      <strong>Graduated in May 2025 (started Fall 2026)</strong><br>
+      <strong> Mechanical Engineering & Mechanics</strong><br>
     </div>
 
     <p>
+      Graduated in May 2025<br>
       Thesis: Efficient machine learning for progressive damage analysis in fiber-reinforced composites<br>
       Position after graduation: Ph.D. student at Oklahoma State University
     </p>
@@ -219,7 +220,7 @@ nav_order: 4
       <span style="font-size:1.5rem; font-weight:600;">
         Trang Tran
       </span><br>
-      <strong>Graduated in May 2025 (started Fall 2026)</strong><br>
+      <strong>Computer Science</strong><br>
     </div>
 
     <p>
@@ -231,20 +232,45 @@ nav_order: 4
 </div>
 <div style="height: 1rem;"></div>
 
-<ul>
-  <li>
-    <strong>Trang Tran</strong>, Computer Science <br>
-    Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
-    Project: Scalable node clustering for graph autoencoders used in model-order reduction
-  </li>
-  <li>
-    <strong>Stephanie Moreno-Rivera</strong>, Mechanical Engineering & Mechanics <br>
-    STEM-SI Student, May 2025 - Aug. 2025<br>
-    Project: Applying a normalized eigengap heuristic to detect nested hierarchical structures in meshes used in engineering<br>
-    STEM-SI Student, May 2024 - Aug. 2024<br>
-    Project: Optimal number of clusters for spectral clustering of 2-D unstrucutured meshes
-  </li>
-</ul>
+
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/placeholder_profile.png"
+      alt="Stephanie Moreno-Rivera"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Stephanie Moreno-Rivera
+      </span><br>
+      <strong>Mechanical Engineering & Mechanics</strong><br>
+    </div>
+
+    <p>
+      STEM-SI Student, May 2025 - Aug. 2025<br>
+      Project: Applying a normalized eigengap heuristic to detect nested hierarchical structures in meshes used in engineering<br>
+      STEM-SI Student, May 2024 - Aug. 2024<br>
+      Project: Optimal number of clusters for spectral clustering of 2-D unstrucutured meshes
+    </p>
+
+  </div>
+</div>
+<div style="height: 1rem;"></div>
+
+
+
+
+
+
+
+
+
 
 
 <!--
