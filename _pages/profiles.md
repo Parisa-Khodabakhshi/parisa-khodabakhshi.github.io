@@ -194,7 +194,7 @@ nav_order: 4
 
     <p>
       Thesis: Efficient machine learning for progressive damage analysis in fiber-reinforced composites<br>
-    Position after graduation: Ph.D. student at Oklahoma State University
+      Position after graduation: Ph.D. student at Oklahoma State University
     </p>
 
   </div>
@@ -203,6 +203,33 @@ nav_order: 4
 
 
 <h3>Undergraduate Researchers</h3>
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img
+      src="/assets/img/Trang.jpg"
+      alt="Trang Tran"
+      style="width:192px; height:240px; object-fit:cover;"
+    >
+  </div>
+
+  <div class="col-sm-8">
+
+    <div style="line-height:1.35; margin-bottom:1rem;">
+      <span style="font-size:1.5rem; font-weight:600;">
+        Trang Tran
+      </span><br>
+      <strong>Graduated in May 2025 (started Fall 2026)</strong><br>
+    </div>
+
+    <p>
+      Rossin Research Scholar, Jan. 2025 - Dec. 2026, Undergraduate Researcher, Jan. 2026 - Apr. 2026<br>
+      Project: Scalable node clustering for graph autoencoders used in model-order reduction
+    </p>
+
+  </div>
+</div>
+<div style="height: 1rem;"></div>
 
 <ul>
   <li>
