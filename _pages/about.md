@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Welcome to Khodabakhshi lab!**
+**Welcome to Khodabakhshi research group!**
 
 The Khodabakhshi Lab develops next-generation computational methods that combine mechanics, artificial intelligence, and scientific machine learning to solve challenging engineering problems. Our research focuses on creating physics-informed, data-driven frameworks for modeling, simulation, optimization, and uncertainty quantification of complex materials and engineering systems.
 
